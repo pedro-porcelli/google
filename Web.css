@@ -1,0 +1,8 @@
+.text {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.btn btn-dark {
+    cursor: pointer;
+}
